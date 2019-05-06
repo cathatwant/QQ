@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1 aaaaaaa
 2 bbbbbbb edit  by wangyan
 3 ccccccc
+4 ddddddd
+aaaaaaa
+bbbbbbb  edit  by  liyifeng
+ccccccc
+>>>>>>> hot_fix
